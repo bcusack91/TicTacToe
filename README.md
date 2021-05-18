@@ -1,10 +1,10 @@
 # TicTacToe
 
-#Portfolio Project
 
-Title of the project: MIT Portfolio Project
 
-Description of the project: In this project, I created a landing page where people can see more information about me. Using bootstrap, I added a navbar, which has a tab for a projects page. On the projects page, prospective employers can see some of the work I completed in this class
+Title of the project: TicTacToe React Project
+
+Description of the project: In this project, I created a TicTacToe project that made extensive use of state and parent-child relations in React.
 
 Roadmap of future improvements: This website could benefit from a bug fix which does not allow the user to click over a previously clicked square to change it from an x to an o.  Furthermore, this website would benefit from some cool sound effects when the user clicks or cool animation effects when a user wins. 
 
